@@ -4,3 +4,4 @@ SECRET=secret
 
 aws_access_key_id=AKIAAAAAAAAAAAAAAAAA
 aws_secret_access_key=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
+token=npm_PyKm3QjvM9KNWuZFDow9tFjLBd1ZEq1gZ10F
