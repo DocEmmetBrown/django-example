@@ -2,5 +2,5 @@
 PASSWORD=password
 SECRET=secret
 
-aws_access_key_id=AKIAIOSFODNN7EXAMP00
-aws_secret_access_key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMP00KEY
+aws_access_key_id=AKIAIOSFODNN7EEEEE00
+aws_secret_access_key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYeeeee00KEY
