@@ -34,6 +34,9 @@ if "NF_HOSTS" in os.environ:
 else:
     ALLOWED_HOSTS = []
 
+# also enable calls from localhost
+ALLOWED_HOSTS.append("127.0.0.1")
+
 # Application definition
 
 INSTALLED_APPS = [
